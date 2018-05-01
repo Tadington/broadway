@@ -2,3 +2,18 @@ body {
   font-family: Helvetica;
   text-align: center;
 }
+
+.uppernav {
+  font-size: 18px;
+  color: white;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.flatiron {
+  background-image: url('../resources/images/the-flatiron-building.png');
+}
